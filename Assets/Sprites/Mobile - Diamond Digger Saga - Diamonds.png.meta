@@ -1,0 +1,1841 @@
+fileFormatVersion: 2
+guid: b2d70233dff44d64b9c94ab70081ff56
+timeCreated: 1460254361
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Diamond Digger Saga - Diamonds_0
+    21300002: Mobile - Diamond Digger Saga - Diamonds_1
+    21300004: Mobile - Diamond Digger Saga - Diamonds_2
+    21300006: Mobile - Diamond Digger Saga - Diamonds_3
+    21300008: Mobile - Diamond Digger Saga - Diamonds_4
+    21300010: Mobile - Diamond Digger Saga - Diamonds_5
+    21300012: Mobile - Diamond Digger Saga - Diamonds_6
+    21300014: Mobile - Diamond Digger Saga - Diamonds_7
+    21300016: Mobile - Diamond Digger Saga - Diamonds_8
+    21300018: Mobile - Diamond Digger Saga - Diamonds_10
+    21300020: Mobile - Diamond Digger Saga - Diamonds_11
+    21300022: Mobile - Diamond Digger Saga - Diamonds_12
+    21300024: Mobile - Diamond Digger Saga - Diamonds_13
+    21300026: Mobile - Diamond Digger Saga - Diamonds_14
+    21300028: Mobile - Diamond Digger Saga - Diamonds_15
+    21300030: Mobile - Diamond Digger Saga - Diamonds_16
+    21300032: Mobile - Diamond Digger Saga - Diamonds_17
+    21300034: Mobile - Diamond Digger Saga - Diamonds_18
+    21300036: Mobile - Diamond Digger Saga - Diamonds_20
+    21300038: Mobile - Diamond Digger Saga - Diamonds_21
+    21300040: Mobile - Diamond Digger Saga - Diamonds_22
+    21300042: Mobile - Diamond Digger Saga - Diamonds_23
+    21300044: Mobile - Diamond Digger Saga - Diamonds_24
+    21300046: Mobile - Diamond Digger Saga - Diamonds_25
+    21300048: Mobile - Diamond Digger Saga - Diamonds_26
+    21300050: Mobile - Diamond Digger Saga - Diamonds_27
+    21300052: Mobile - Diamond Digger Saga - Diamonds_28
+    21300054: Mobile - Diamond Digger Saga - Diamonds_29
+    21300056: Mobile - Diamond Digger Saga - Diamonds_30
+    21300058: Mobile - Diamond Digger Saga - Diamonds_31
+    21300060: Mobile - Diamond Digger Saga - Diamonds_32
+    21300062: Mobile - Diamond Digger Saga - Diamonds_33
+    21300064: Mobile - Diamond Digger Saga - Diamonds_34
+    21300066: Mobile - Diamond Digger Saga - Diamonds_35
+    21300068: Mobile - Diamond Digger Saga - Diamonds_36
+    21300070: Mobile - Diamond Digger Saga - Diamonds_37
+    21300072: Mobile - Diamond Digger Saga - Diamonds_38
+    21300074: Mobile - Diamond Digger Saga - Diamonds_40
+    21300076: Mobile - Diamond Digger Saga - Diamonds_41
+    21300078: Mobile - Diamond Digger Saga - Diamonds_42
+    21300080: Mobile - Diamond Digger Saga - Diamonds_43
+    21300082: Mobile - Diamond Digger Saga - Diamonds_44
+    21300084: Mobile - Diamond Digger Saga - Diamonds_46
+    21300086: Mobile - Diamond Digger Saga - Diamonds_47
+    21300088: Mobile - Diamond Digger Saga - Diamonds_48
+    21300090: Mobile - Diamond Digger Saga - Diamonds_49
+    21300092: Mobile - Diamond Digger Saga - Diamonds_50
+    21300094: Mobile - Diamond Digger Saga - Diamonds_51
+    21300096: Mobile - Diamond Digger Saga - Diamonds_52
+    21300098: Mobile - Diamond Digger Saga - Diamonds_53
+    21300100: Mobile - Diamond Digger Saga - Diamonds_55
+    21300102: Mobile - Diamond Digger Saga - Diamonds_59
+    21300104: Mobile - Diamond Digger Saga - Diamonds_60
+    21300106: Mobile - Diamond Digger Saga - Diamonds_61
+    21300108: Mobile - Diamond Digger Saga - Diamonds_62
+    21300110: Mobile - Diamond Digger Saga - Diamonds_63
+    21300112: Mobile - Diamond Digger Saga - Diamonds_65
+    21300114: Y1
+    21300116: y2
+    21300118: y3
+    21300120: y4
+    21300122: Mobile - Diamond Digger Saga - Diamonds_70
+    21300124: Mobile - Diamond Digger Saga - Diamonds_71
+    21300126: Mobile - Diamond Digger Saga - Diamonds_72
+    21300128: Mobile - Diamond Digger Saga - Diamonds_73
+    21300130: Mobile - Diamond Digger Saga - Diamonds_75
+    21300132: y5
+    21300134: Mobile - Diamond Digger Saga - Diamonds_77
+    21300136: y6
+    21300138: y7
+    21300140: Mobile - Diamond Digger Saga - Diamonds_80
+    21300142: Mobile - Diamond Digger Saga - Diamonds_81
+    21300144: Mobile - Diamond Digger Saga - Diamonds_82
+    21300146: Mobile - Diamond Digger Saga - Diamonds_83
+    21300148: Mobile - Diamond Digger Saga - Diamonds_84
+    21300150: y8
+    21300152: y9
+    21300154: y10
+    21300156: y11
+    21300158: Mobile - Diamond Digger Saga - Diamonds_93
+    21300160: Mobile - Diamond Digger Saga - Diamonds_94
+    21300162: y12
+    21300164: y13
+    21300166: y14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mobile - Diamond Digger Saga - Diamonds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 49}
+        - {x: 26, y: 50}
+        - {x: 2, y: 50}
+        - {x: -39, y: 29}
+        - {x: -47, y: 16}
+        - {x: -47, y: -44}
+        - {x: -46, y: -47}
+        - {x: -43, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 37}
+    - name: Mobile - Diamond Digger Saga - Diamonds_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 35}
+        - {x: -50, y: -50}
+        - {x: -23, y: -50}
+        - {x: -23, y: 25}
+        - {x: -39, y: 35}
+      - - {x: 11, y: 50}
+        - {x: -7, y: 29}
+        - {x: -17, y: 0}
+        - {x: -17, y: -36}
+        - {x: -15, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: -12, y: -50}
+        - {x: -10, y: -43}
+        - {x: -10, y: 14}
+        - {x: -35, y: 50}
+      - - {x: 18, y: 50}
+        - {x: -8, y: 20}
+        - {x: -8, y: -28}
+        - {x: 10, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 908
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -43}
+        - {x: -27, y: -50}
+        - {x: 38, y: -50}
+        - {x: 50, y: -38}
+        - {x: 50, y: 46}
+        - {x: 49, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 916
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -42}
+        - {x: -49, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -49}
+        - {x: 50, y: 49}
+        - {x: 49, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 917
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 50}
+        - {x: -50, y: 40}
+        - {x: -50, y: -47}
+        - {x: -38, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -36}
+        - {x: 50, y: 33}
+        - {x: 36, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 912
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 50}
+        - {x: -48, y: 50}
+        - {x: -50, y: 37}
+        - {x: -50, y: -19}
+        - {x: -40, y: -48}
+        - {x: -30, y: -50}
+        - {x: 30, y: -50}
+        - {x: 35, y: -48}
+        - {x: 44, y: -16}
+        - {x: 44, y: 40}
+    - name: Mobile - Diamond Digger Saga - Diamonds_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 917
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 47}
+        - {x: 36, y: 50}
+        - {x: -43, y: 50}
+        - {x: -45, y: 43}
+        - {x: -45, y: -50}
+        - {x: 28, y: -50}
+        - {x: 46, y: -45}
+        - {x: 46, y: 12}
+        - {x: 40, y: 29}
+    - name: Mobile - Diamond Digger Saga - Diamonds_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 914
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -40, y: 44}
+        - {x: -40, y: -44}
+        - {x: -27, y: -50}
+        - {x: 24, y: -50}
+        - {x: 39, y: -36}
+        - {x: 39, y: 37}
+        - {x: 37, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 812
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 50}
+        - {x: -50, y: 5}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -10}
+        - {x: -50, y: -50}
+        - {x: -33, y: -50}
+        - {x: -33, y: -33}
+        - {x: -42, y: -19}
+        - {x: -48, y: -10}
+      - - {x: 0, y: 24}
+        - {x: -22, y: 19}
+        - {x: -28, y: -10}
+        - {x: -28, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 18}
+        - {x: 47, y: 24}
+      - - {x: -9, y: 50}
+        - {x: -10, y: 47}
+        - {x: -3, y: 37}
+        - {x: 1, y: 33}
+        - {x: 50, y: 33}
+        - {x: 50, y: 50}
+      - - {x: -49, y: 37}
+        - {x: -30, y: 46}
+        - {x: -30, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: 38}
+    - name: Mobile - Diamond Digger Saga - Diamonds_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 13}
+        - {x: -49, y: 13}
+        - {x: -50, y: 12}
+        - {x: -50, y: -50}
+        - {x: -26, y: -50}
+        - {x: -26, y: -28}
+        - {x: -36, y: -5}
+      - - {x: 16, y: 50}
+        - {x: 8, y: 28}
+        - {x: 8, y: -49}
+        - {x: 11, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -50, y: 50}
+        - {x: -50, y: 33}
+        - {x: -29, y: 33}
+        - {x: -18, y: 39}
+        - {x: -15, y: 47}
+        - {x: -15, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 808
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -50, y: 36}
+        - {x: -50, y: -50}
+        - {x: 28, y: -50}
+        - {x: 32, y: -36}
+        - {x: 32, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -50, y: 28}
+        - {x: -50, y: -28}
+        - {x: -38, y: -50}
+        - {x: 19, y: -50}
+        - {x: 32, y: -47}
+        - {x: 36, y: -33}
+        - {x: 36, y: 27}
+        - {x: 26, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 807
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 50}
+        - {x: -50, y: 31}
+        - {x: -50, y: -31}
+        - {x: -44, y: -50}
+        - {x: 32, y: -50}
+        - {x: 43, y: -26}
+        - {x: 43, y: 17}
+        - {x: 32, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 805
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -50, y: 49}
+        - {x: -50, y: -40}
+        - {x: -47, y: -49}
+        - {x: -42, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 43}
+        - {x: 42, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 805
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 50}
+        - {x: -50, y: 47}
+        - {x: -50, y: -38}
+        - {x: -49, y: -49}
+        - {x: -34, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -45}
+        - {x: 50, y: 45}
+        - {x: 46, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 808
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 50}
+        - {x: -50, y: 45}
+        - {x: -50, y: -40}
+        - {x: -40, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 48}
+        - {x: 39, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -16}
+        - {x: -50, y: -50}
+        - {x: -33, y: -50}
+        - {x: -33, y: -36}
+        - {x: -47, y: -16}
+      - - {x: -26, y: 50}
+        - {x: -27, y: 49}
+        - {x: -27, y: 46}
+        - {x: -31, y: -21}
+        - {x: -31, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -33, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: 15}
+        - {x: -45, y: 15}
+        - {x: -37, y: 20}
+        - {x: -34, y: 25}
+        - {x: -33, y: 42}
+    - name: Mobile - Diamond Digger Saga - Diamonds_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 0}
+        - {x: -50, y: -50}
+        - {x: -20, y: -50}
+        - {x: -20, y: -25}
+        - {x: -41, y: -5}
+        - {x: -48, y: 1}
+      - - {x: 2, y: 50}
+        - {x: -22, y: -10}
+        - {x: -22, y: -49}
+        - {x: -20, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -50, y: 50}
+        - {x: -50, y: 5}
+        - {x: -40, y: 5}
+        - {x: -26, y: 34}
+        - {x: -26, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 696
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 46, y: -50}
+        - {x: 47, y: -49}
+        - {x: 50, y: -39}
+        - {x: 50, y: 31}
+    - name: Mobile - Diamond Digger Saga - Diamonds_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 693
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 50}
+        - {x: -43, y: 48}
+        - {x: -50, y: 37}
+        - {x: -50, y: -42}
+        - {x: -49, y: -50}
+        - {x: 46, y: -50}
+        - {x: 50, y: -43}
+        - {x: 50, y: 37}
+        - {x: 37, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_25
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 693
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -50, y: 40}
+        - {x: -50, y: -40}
+        - {x: -43, y: -46}
+        - {x: -28, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 16}
+        - {x: 36, y: 47}
+        - {x: 34, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 21}
+        - {x: 48, y: 21}
+    - name: Mobile - Diamond Digger Saga - Diamonds_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 28, y: -50}
+        - {x: 50, y: -27}
+        - {x: 50, y: 5}
+        - {x: 48, y: 5}
+    - name: Mobile - Diamond Digger Saga - Diamonds_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 23}
+        - {x: 35, y: 25}
+        - {x: 29, y: 25}
+        - {x: 42, y: 27}
+        - {x: 50, y: 33}
+        - {x: 50, y: 50}
+        - {x: -33, y: 50}
+        - {x: -41, y: 39}
+        - {x: -50, y: 10}
+        - {x: -50, y: -39}
+        - {x: -40, y: -50}
+        - {x: 42, y: -50}
+        - {x: 50, y: -39}
+        - {x: 50, y: 13}
+    - name: Mobile - Diamond Digger Saga - Diamonds_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 698
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -50, y: 41}
+        - {x: -50, y: 1}
+        - {x: -31, y: -50}
+        - {x: 29, y: -50}
+        - {x: 50, y: -25}
+        - {x: 50, y: 44}
+        - {x: 49, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -11}
+        - {x: 50, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: -33}
+        - {x: 47, y: -27}
+    - name: Mobile - Diamond Digger Saga - Diamonds_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -37}
+        - {x: -50, y: -50}
+        - {x: -44, y: -50}
+        - {x: -44, y: -39}
+        - {x: -49, y: -37}
+      - - {x: -33, y: 50}
+        - {x: -33, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -50, y: 50}
+        - {x: -50, y: -7}
+        - {x: -44, y: -6}
+        - {x: -33, y: 6}
+        - {x: -33, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -14}
+        - {x: -50, y: -14}
+        - {x: -50, y: -50}
+        - {x: -25, y: -50}
+        - {x: -25, y: -42}
+        - {x: -30, y: -34}
+      - - {x: -22, y: 50}
+        - {x: -22, y: -32}
+        - {x: -16, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -20, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -10}
+        - {x: -36, y: -10}
+        - {x: -21, y: 6}
+        - {x: -18, y: 33}
+        - {x: -18, y: 44}
+    - name: Mobile - Diamond Digger Saga - Diamonds_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 50}
+        - {x: -50, y: 26}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -50, y: 50}
+        - {x: -50, y: 14}
+        - {x: -36, y: 14}
+        - {x: -16, y: 24}
+        - {x: -12, y: 45}
+        - {x: -11, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 50}
+        - {x: 8, y: 50}
+        - {x: 5, y: 48}
+        - {x: 21, y: 20}
+        - {x: 3, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: -2, y: -50}
+        - {x: 2, y: -41}
+        - {x: 17, y: -50}
+        - {x: 50, y: -50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 49}
+        - {x: 44, y: 50}
+      - - {x: 39, y: 50}
+        - {x: 39, y: 48}
+        - {x: 43, y: 37}
+        - {x: 50, y: 37}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 24}
+        - {x: 14, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 34, y: -50}
+        - {x: 50, y: -39}
+        - {x: 50, y: 17}
+        - {x: 36, y: 49}
+    - name: Mobile - Diamond Digger Saga - Diamonds_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 50}
+        - {x: -50, y: 17}
+        - {x: -50, y: -40}
+        - {x: -43, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 24}
+        - {x: 39, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 50}
+        - {x: -50, y: 41}
+        - {x: -50, y: -9}
+        - {x: -30, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 50}
+        - {x: -35, y: 39}
+        - {x: -36, y: 35}
+        - {x: -36, y: 28}
+        - {x: -36, y: 37}
+        - {x: -42, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -17}
+        - {x: -49, y: -17}
+        - {x: -22, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -28}
+        - {x: -50, y: -50}
+        - {x: -30, y: -50}
+        - {x: -30, y: -49}
+        - {x: -40, y: -35}
+        - {x: -48, y: -28}
+      - - {x: -12, y: 50}
+        - {x: -21, y: -3}
+        - {x: -21, y: -42}
+        - {x: -18, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -18, y: 46}
+        - {x: -23, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -25}
+        - {x: -38, y: -25}
+        - {x: -27, y: -17}
+        - {x: -20, y: -12}
+        - {x: -18, y: -9}
+    - name: Mobile - Diamond Digger Saga - Diamonds_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -5}
+        - {x: -29, y: 0}
+        - {x: -50, y: 0}
+        - {x: -50, y: -50}
+        - {x: -8, y: -50}
+        - {x: -5, y: -48}
+        - {x: -5, y: -27}
+        - {x: -6, y: -20}
+      - - {x: 1, y: 50}
+        - {x: -4, y: 11}
+        - {x: -4, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -50, y: 50}
+        - {x: -50, y: 10}
+        - {x: -46, y: 11}
+        - {x: -30, y: 31}
+        - {x: -22, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 49}
+        - {x: -6, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 2, y: -50}
+        - {x: 2, y: -25}
+        - {x: -22, y: -2}
+      - - {x: 42, y: 0}
+        - {x: 28, y: -18}
+        - {x: 21, y: -29}
+        - {x: 16, y: -47}
+        - {x: 16, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 0}
+      - - {x: 20, y: 50}
+        - {x: 20, y: 43}
+        - {x: 42, y: 10}
+        - {x: 48, y: 6}
+        - {x: 50, y: 7}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_46
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 470
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 50}
+        - {x: -34, y: 50}
+        - {x: -50, y: 26}
+        - {x: -50, y: -39}
+        - {x: -47, y: -50}
+        - {x: 47, y: -50}
+        - {x: 48, y: -46}
+        - {x: 48, y: 32}
+        - {x: 45, y: 35}
+    - name: Mobile - Diamond Digger Saga - Diamonds_47
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 465
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 50}
+        - {x: -50, y: 42}
+        - {x: -50, y: -47}
+        - {x: -36, y: -50}
+        - {x: 43, y: -50}
+        - {x: 50, y: -42}
+        - {x: 50, y: 47}
+        - {x: 37, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 465
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -38}
+        - {x: -37, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+        - {x: -38, y: 50}
+        - {x: -50, y: 36}
+    - name: Mobile - Diamond Digger Saga - Diamonds_49
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 50}
+        - {x: -50, y: 47}
+        - {x: -50, y: -43}
+        - {x: -46, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -48}
+        - {x: 50, y: 43}
+        - {x: 45, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 50}
+        - {x: -44, y: -47}
+        - {x: -34, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 50}
+        - {x: -37, y: 38}
+        - {x: -37, y: -22}
+        - {x: -33, y: -44}
+        - {x: -22, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -41, y: 26}
+        - {x: -48, y: 39}
+        - {x: -50, y: 39}
+        - {x: -50, y: -21}
+        - {x: -47, y: -20}
+        - {x: -41, y: -5}
+    - name: Mobile - Diamond Digger Saga - Diamonds_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -45}
+        - {x: -50, y: -50}
+        - {x: -43, y: -50}
+        - {x: -43, y: -49}
+        - {x: -48, y: -44}
+        - {x: -49, y: -44}
+      - - {x: -16, y: 50}
+        - {x: -17, y: 49}
+        - {x: -12, y: 37}
+        - {x: -22, y: -21}
+        - {x: -22, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -31, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -40}
+        - {x: -37, y: -40}
+        - {x: -18, y: -33}
+        - {x: -18, y: 35}
+        - {x: -27, y: 47}
+    - name: Mobile - Diamond Digger Saga - Diamonds_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -13}
+        - {x: -50, y: -13}
+        - {x: -50, y: -50}
+        - {x: -5, y: -50}
+        - {x: -5, y: -38}
+        - {x: -23, y: -15}
+      - - {x: -5, y: 50}
+        - {x: -5, y: 5}
+        - {x: -4, y: -4}
+        - {x: 3, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -50, y: 50}
+        - {x: -50, y: -6}
+        - {x: -46, y: -6}
+        - {x: -22, y: 19}
+        - {x: -10, y: 48}
+        - {x: -10, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 467
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 49, y: -50}
+        - {x: 49, y: 39}
+        - {x: 41, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_59
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 464
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 50}
+        - {x: -50, y: 40}
+        - {x: -50, y: -46}
+        - {x: -34, y: -50}
+        - {x: 46, y: -50}
+        - {x: 50, y: -42}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 50}
+        - {x: -39, y: 43}
+        - {x: -39, y: -38}
+        - {x: -36, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -26, y: 34}
+        - {x: -37, y: 17}
+        - {x: -37, y: -45}
+        - {x: -26, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -47, y: -25}
+        - {x: -47, y: -22}
+        - {x: -50, y: -21}
+        - {x: -50, y: -26}
+      - - {x: -48, y: 13}
+        - {x: -50, y: 13}
+        - {x: -50, y: -20}
+        - {x: -49, y: -21}
+        - {x: -46, y: -19}
+        - {x: -45, y: -16}
+        - {x: -45, y: 1}
+        - {x: -47, y: 10}
+    - name: Mobile - Diamond Digger Saga - Diamonds_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: -29, y: -50}
+        - {x: -18, y: -42}
+        - {x: -18, y: 22}
+      - - {x: -22, y: 50}
+        - {x: -21, y: 44}
+        - {x: -19, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_63
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 345
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 50}
+        - {x: -42, y: 33}
+        - {x: -42, y: -42}
+        - {x: -22, y: -50}
+        - {x: 49, y: -50}
+        - {x: 50, y: -49}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 348
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -50, y: 43}
+        - {x: -50, y: -38}
+        - {x: -42, y: -50}
+        - {x: 42, y: -50}
+        - {x: 50, y: -48}
+        - {x: 50, y: 50}
+    - name: Y1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 353
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 50}
+        - {x: -50, y: 46}
+        - {x: -50, y: -47}
+        - {x: -48, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: y2
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 348
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -47}
+        - {x: -49, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: y3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 352
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 48, y: -50}
+        - {x: 48, y: 45}
+        - {x: 42, y: 50}
+    - name: y4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 352
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 50}
+        - {x: -43, y: 35}
+        - {x: -43, y: -28}
+        - {x: -40, y: -50}
+        - {x: 38, y: -50}
+        - {x: 47, y: -38}
+        - {x: 47, y: 31}
+        - {x: 42, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 207
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 50}
+        - {x: -45, y: 44}
+        - {x: -45, y: -36}
+        - {x: -36, y: -50}
+        - {x: 31, y: -50}
+        - {x: 37, y: -49}
+        - {x: 37, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_71
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 205
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 50}
+        - {x: -50, y: 45}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 49}
+        - {x: 49, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 246
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 50}
+        - {x: -40, y: 50}
+        - {x: -50, y: 37}
+        - {x: -50, y: -3}
+        - {x: -23, y: -50}
+        - {x: 23, y: -50}
+        - {x: 29, y: -49}
+        - {x: 50, y: -17}
+        - {x: 50, y: 42}
+        - {x: 49, y: 49}
+    - name: Mobile - Diamond Digger Saga - Diamonds_73
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 233
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 50}
+        - {x: -46, y: 17}
+        - {x: -46, y: -4}
+        - {x: -34, y: -33}
+        - {x: -24, y: -50}
+        - {x: 28, y: -50}
+        - {x: 50, y: -15}
+        - {x: 50, y: 16}
+        - {x: 37, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_75
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 238
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 50}
+        - {x: -50, y: 43}
+        - {x: -50, y: -49}
+        - {x: -45, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -40}
+        - {x: 50, y: 40}
+        - {x: 39, y: 50}
+    - name: y5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 241
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 50}
+        - {x: -44, y: 37}
+        - {x: -44, y: -48}
+        - {x: -43, y: -50}
+        - {x: 32, y: -50}
+        - {x: 38, y: -34}
+        - {x: 38, y: 27}
+        - {x: 31, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_77
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 240
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -50, y: 38}
+        - {x: -50, y: -40}
+        - {x: -46, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 44}
+        - {x: 44, y: 50}
+    - name: y6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 238
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -43}
+        - {x: -45, y: -50}
+        - {x: 49, y: -50}
+        - {x: 50, y: -49}
+        - {x: 50, y: 50}
+    - name: y7
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 243
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 50}
+        - {x: -50, y: 38}
+        - {x: -50, y: -48}
+        - {x: -45, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 102
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 50}
+        - {x: -34, y: 50}
+        - {x: -45, y: 32}
+        - {x: -45, y: -42}
+        - {x: -42, y: -50}
+        - {x: 47, y: -50}
+        - {x: 49, y: -43}
+        - {x: 49, y: 13}
+        - {x: 40, y: 38}
+    - name: Mobile - Diamond Digger Saga - Diamonds_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 50}
+        - {x: -49, y: 41}
+        - {x: -50, y: 34}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 35}
+        - {x: 37, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 129
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -50, y: 36}
+        - {x: -50, y: -5}
+        - {x: -14, y: -50}
+        - {x: 24, y: -50}
+        - {x: 50, y: -16}
+        - {x: 50, y: 47}
+        - {x: 47, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 122
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 50}
+        - {x: -46, y: 30}
+        - {x: -46, y: -8}
+        - {x: -34, y: -50}
+        - {x: 31, y: -50}
+        - {x: 44, y: -9}
+        - {x: 44, y: 27}
+        - {x: 28, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_84
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 126
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 50}
+        - {x: -50, y: 41}
+        - {x: -50, y: -41}
+        - {x: -42, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: y8
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 122
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 50}
+        - {x: -32, y: 50}
+        - {x: -40, y: 25}
+        - {x: -40, y: -16}
+        - {x: -36, y: -41}
+        - {x: -29, y: -50}
+        - {x: 44, y: -50}
+        - {x: 48, y: -22}
+        - {x: 48, y: 40}
+    - name: y9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 129
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: y10
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 122
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -44}
+        - {x: -47, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: y11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 129
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 50}
+        - {x: -50, y: 49}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 47}
+        - {x: 47, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 17
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -50, y: 35}
+        - {x: -50, y: 2}
+        - {x: -24, y: -50}
+        - {x: 32, y: -50}
+        - {x: 48, y: -26}
+        - {x: 50, y: -18}
+        - {x: 50, y: 50}
+    - name: Mobile - Diamond Digger Saga - Diamonds_94
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 14
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 50}
+        - {x: -50, y: 31}
+        - {x: -50, y: -25}
+        - {x: -41, y: -50}
+        - {x: 32, y: -50}
+        - {x: 41, y: -24}
+        - {x: 41, y: 33}
+        - {x: 19, y: 50}
+    - name: y12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 17
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 50}
+        - {x: -50, y: 43}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 43}
+        - {x: 49, y: 50}
+    - name: y13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 17
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48270774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 51.729225}
+        - {x: -49, y: -48.270775}
+        - {x: 47, y: -48.270775}
+        - {x: 47, y: 51.729225}
+    - name: y14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 14
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
